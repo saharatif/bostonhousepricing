@@ -281,3 +281,13 @@
 +defaults/osx-arm64::pandas-1.5.3-py39h78102c4_0
 +defaults/osx-arm64::pytz-2022.7-py39hca03da5_0
 # update specs: ['pandas']
+==> 2023-04-08 01:26:56 <==
+# cmd: /Users/saharatif/miniforge3/bin/conda install Flask
+# conda version: 23.3.1
++defaults/noarch::itsdangerous-2.0.1-pyhd3eb1b0_0
++defaults/osx-arm64::click-8.0.4-py39hca03da5_0
++defaults/osx-arm64::flask-2.2.2-py39hca03da5_0
++defaults/osx-arm64::jinja2-3.1.2-py39hca03da5_0
++defaults/osx-arm64::markupsafe-2.1.1-py39h1a28f6b_0
++defaults/osx-arm64::werkzeug-2.2.3-py39hca03da5_0
+# update specs: ['flask']
