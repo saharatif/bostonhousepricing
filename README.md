@@ -14,5 +14,10 @@ Kill the PID
 lsof -i tcp:5000
 kill -9 <PID>
 ```
+All Virtual ENC:
+```conda info --envs
+```
 Procfile: Commands that needs to be run on Heroku on startup.
 Gunicorn is a pure-Python HTTP server for WSGI (Web Server Gateway Interface) applications. It allows you to run any Python application concurrently by running multiple Python processes within a single dyno. It provides a perfect balance of performance, flexibility, and configuration simplicity.
+
+For Dockerfile: COPY takes the content fron (.) working directory to /app folder in the base image working director and then /app becomes that working directory.
