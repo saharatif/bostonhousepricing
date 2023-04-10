@@ -14,7 +14,7 @@ Kill the PID
 lsof -i tcp:5000
 kill -9 <PID>
 ```
-All Virtual ENC:
+All Virtual ENV:
 ```
 conda info --envs
 
