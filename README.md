@@ -24,7 +24,9 @@ Gunicorn is a pure-Python HTTP server for WSGI (Web Server Gateway Interface) ap
 
 For Dockerfile: COPY takes the content fron (.) working directory to /app folder in the base image working director and then /app becomes that working directory.
 
-DOCKER FILE Parameters from github actions:
-HEROKU_EMAIL : Email of github and Heruko
-HEROKU_API_KEY : Heroku Account settings > API key
-HEROKU_APP_NAME : Heruko APP name
+DOCKER FILE Parameters from github actions:  
+HEROKU_EMAIL : Email of github and Heruko  
+HEROKU_API_KEY : Heroku Account settings > API key  
+HEROKU_APP_NAME : Heruko APP name  
+
+Credits Krish Naik :https://www.youtube.com/watch?v=MJ1vWb1rGwM  
